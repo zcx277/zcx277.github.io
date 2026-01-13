@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master's student in the Department of Medical Neurobiology, School of Basic Medical Sciences,[Peking University Health Science Center](https://www.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/). It is my great honor to join Professor Wan and Yi's research group. My research interests focus on the encoding of object attributes by the perirhinal cortex and multichannel electrophysiology in mice.
+I am a first-year Master's student in the Department of Medical Neurobiology at the [Neuroscience Research institude](https://nri.bjmu.edu.cn/),[Peking University Health Science Center](https://www.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/). It is my great honor to join Professor Wan and Yi's research group. My research interests focus on the encoding of object attributes by the perirhinal cortex and multichannel electrophysiology in mice.
 
 You can find my CV here: [Zhao cenxi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
