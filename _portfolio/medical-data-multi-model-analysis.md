@@ -1,9 +1,9 @@
- ---
+---
 title: "大作业——医疗数据多模型分析与可视化实践"  
 collection: portfolio  
 type: "Machine Learning"  
 permalink: /portfolio/medical-data-multi-model-analysis  
-date: 2024-01-01  
+date: 2026-01-17  
 excerpt: "通过EDA、多模型训练（逻辑回归/随机森林/SVM）、聚类及SHAP解释，分析医疗数据并提升预测准确性与可解释性。"  
 header:  
   teaser: /images/portfolio/medical-data-multi-model-analysis/age_distribution.png  
