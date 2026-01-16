@@ -3,7 +3,7 @@ title: "学生练习：Python数据可视化实战"
 collection: portfolio  
 type: "Machine Learning"  
 permalink: /portfolio/python-data-visualization-practice  
-date: 2024-01-01  
+date: 2026-01-16  
 excerpt: "通过Matplotlib、Seaborn等工具实现数据可视化，覆盖EDA、模型评估、无监督学习及SHAP解释，提升数据分析与机器学习中的可视化能力。"  
 header:  
   teaser: /images/portfolio/python-data-visualization-practice/age_distribution.png  
