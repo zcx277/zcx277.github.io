@@ -106,9 +106,3 @@ shap.summary_plot(shap_values, X_train)
 ### 10. lab_5235_max特征依赖图  
 ![lab_5235_max特征依赖图](/images/portfolio/medical-data-multi-model-analysis/shap_dependence_lab5235.png)  
 **分析**：lab_5235_max值>100时，SHAP值呈线性上升趋势，说明该指标超过阈值后，患者死亡风险急剧增加，可作为临床预警阈值。  
-
-
----
-
-
-```
