@@ -1,5 +1,5 @@
 ---
-title: "学生练习：Python数据可视化实战"  
+title: "Python数据可视化实战"  
 collection: portfolio  
 type: "Machine Learning"  
 permalink: /portfolio/python-data-visualization-practice  
