@@ -1,5 +1,4 @@
-```yaml  
----
+ ---
 title: "大作业——医疗数据多模型分析与可视化实践"  
 collection: portfolio  
 type: "Machine Learning"  
