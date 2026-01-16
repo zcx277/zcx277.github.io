@@ -7,15 +7,14 @@ redirect_from:
   - /resume
 ---
 
-
+```
 ```
 Education
 ======
 * 硕士学位 in 医学神经生物学, 北京大学, 2028
 * 学士学位 in 动物医学, 中国农业大学, 2025
 ```
-* 框架技术
-  * Django
+```
 Work experience
 ======
 * 2025.09-至今:     北京大学神经科学研究所   学习
@@ -34,12 +33,14 @@ Work experience
   * 我负责测定黏菌素和双硫仑单独用药和联合用药的 MIC 和协同指数（FIC）。
   * 掌握基本实验室技能如 ELISA、HA、HI、PCR、免疫荧光实验。
 ```
+```
 Skills
 ======
 * 编程语言
   * Python (初级)
 * 生物实验技术
   * 小鼠多通道电生理
+```
 ```
 Publications
 ======
