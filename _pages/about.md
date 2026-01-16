@@ -1,4 +1,3 @@
-```yaml
 ---
 permalink: /
 title: "zcx277.github.io"
@@ -11,6 +10,4 @@ I am a first-year Master's student in the Department of Medical Neurobiology at 
 You can find my CV here: [Zhao cenxi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:zhaocenxi25@stu.pku.edu.cn) / [Github](https://github.com/zcx277) / [Wechat](../images/wechat.jpg) 
-```
 
----
