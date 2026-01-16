@@ -66,7 +66,7 @@ shap.summary_plot(shap_values, X_train)
 **分析**：年龄分布呈现正态趋势，集中在某一区间。  
 
 ![ROC曲线](/images/portfolio/medical-data-multi-model-analysis/roc_curve.png)  
-**分析**：逻辑回归模型AUC值为XX，预测性能良好。  
+**分析**：逻辑回归模型AUC值为0.7156，预测性能良好。  
 
 ![SHAP蜂群图](/images/portfolio/medical-data-multi-model-analysis/shap_beeswarm.png)  
 **分析**：lab_5235_max是影响结局的关键特征，高值增加不良结局风险。  
