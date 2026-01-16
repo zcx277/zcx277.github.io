@@ -1,6 +1,3 @@
-_portfolio/python-data-visualization-practice.md 
-
-```yaml  
 ---
 title: "学生练习：Python数据可视化实战"  
 collection: portfolio  
