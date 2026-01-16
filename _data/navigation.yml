@@ -6,28 +6,20 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
-
+```yaml
 main:
-  - title: "Publications"
+  - title: "关于我"
+    url: /about/
+  - title: "研究成果"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "学术报告"
+    url: /talks/
+  - title: "教学课程"
+    url: /teaching/
+  - title: "项目作品"
     url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "博客文章"
     url: /year-archive/
-    
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+```
