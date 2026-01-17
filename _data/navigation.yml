@@ -11,13 +11,13 @@ main:
     url: /about/
   - title: "研究成果"
     url: /publications/
-  - title: "学术报告"
-    url: /talks/
-  - title: "教学课程"
-    url: /teaching/
+  #- title: "学术报告"
+   # url: /talks/
+  #- title: "教学课程"
+   # url: /teaching/
   - title: "项目作品"
     url: /portfolio/
-  - title: "博客文章"
-    url: /year-archive/
+  #- title: "博客文章"
+   # url: /year-archive/
   - title: "个人简历"
     url: /cv/
