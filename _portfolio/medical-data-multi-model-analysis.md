@@ -60,7 +60,6 @@ shap_values = explainer(X_train)
 # 生成SHAP蜂群图  
 shap.summary_plot(shap_values, X_train)  
 ```  
-以下是**完整的分析结果部分**（包含所有10张图的展示与详细分析），请替换原Markdown中的“分析结果”章节：
 
 
 ---
