@@ -7,8 +7,8 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 main:
-  - title: "关于我"
-    url: /about/
+  #- title: "关于我"
+   #url: /about/
   - title: "研究成果"
     url: /publications/
   #- title: "学术报告"
