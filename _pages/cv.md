@@ -9,14 +9,14 @@ redirect_from:
 
 ```
 ```
-Education
-======
+教育经历
+
 * 硕士学位 in 医学神经生物学, 北京大学, 2028
 * 学士学位 in 动物医学, 中国农业大学, 2025
 ```
 ```
-Work experience
-======
+实验经历
+
 * 2025.09-至今:     北京大学神经科学研究所   学习
   * 进入万有伊鸣课题组进行学习
 
@@ -34,19 +34,19 @@ Work experience
   * 掌握基本实验室技能如 ELISA、HA、HI、PCR、免疫荧光实验。
 ```
 ```
-Skills
-======
+技能
+
 * 编程语言
   * Python (初级)
 * 生物实验技术
   * 小鼠多通道电生理
 ```
 ```
-Publications
-======
+发表文章
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-```
+
   
 
